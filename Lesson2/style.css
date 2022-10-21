@@ -1,0 +1,46 @@
+
+.father {
+background: white;
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    font-size: 25px;
+    text-align: center
+}
+.child {
+    background: aqua;
+    width: 200px;
+    height: 300px;
+    border: white;
+    box-sizing: border-box;
+    margin: 10px;
+    padding-top: 120px;
+
+
+}
+.catalog1 {
+background: blue;
+    width: 100%;
+    height: 30%;
+border: white;
+box-sizing: border-box;
+margin-left: 295px;
+padding: 100px; 100px; 100px; 100px;
+    font-size: 70px;
+    text-align: center;
+}
+.catalog2 {
+    background: blue;
+    width: 100%;
+    height: 50%;
+    border: white;
+    box-sizing: border-box;
+    margin-left: 295px;
+    margin-right: 295px;
+    padding: 100px; 100px; 100px; 100px;
+    font-size: 70px;
+    text-align: center;
+}
