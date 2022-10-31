@@ -22,7 +22,8 @@ body {
     width: 70%;
     height: 60%;
     background: red;
-
+    display: flex;
+flex-direction: column;
 }
 
 .blockB{
@@ -32,11 +33,11 @@ body {
 }
 .blockCDE {
     width: 100%;
-    height: 70%;
+    height: 30%;
     display: flex;
 }
 .blockC {
-    width: 33%;
+    width: 34%;
     height: 100%;
     background: aqua;
 }
